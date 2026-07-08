@@ -12,7 +12,7 @@ Endüstriyel ortamlarda karşılaşılan gürültü, iletim kayıpları ve donan
 Sistemin fiziksel katman karakterizasyonu için aşağıdaki yüksek hassasiyetli ölçüm ekipmanları kullanılmıştır. Test düzeneğinde sinyal kaynağı ve yükleme birimleri, hattın doğal empedansını ve frekans yanıtını bozmayacak şekilde yapılandırılmıştır.
 
 * **Sinyal Üretimi:** **Agilent 33521A** (30 MHz Waveform Generator) - Yüksek kararlılıkta kare dalga üretimi için yapılandırılmıştır.
-** ![Kullandığım cihaz:](assets%2Fscreenshots/1mhz.jpeg)
+** ![Kullandığım cihaz:](assets/diagrams/assets/screenshots/1mhz.jpeg)
 * **Sinyal Analizi:** **Tektronix 6 Series MSO** - Sinyal formundaki en küçük distorsiyonları (jitter, ringing, overshoot) yakalamak amacıyla yüksek örnekleme hızında çalıştırılmıştır.
 *  ![Kullandığım cihaz:](assets/screenshots/osc1.jpeg)
 * **Güç Kaynağı:** **Agilent E3634A** (DC Power Supply) - Test süresince voltaj seviyesinin sabitliğini garanti altına almak için kullanılmıştır.
