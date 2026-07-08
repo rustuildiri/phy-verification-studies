@@ -37,7 +37,7 @@ Testin başlangıç aşamasında, Agilent 33521A üzerinden iletilen sinyallerin
 
 ### Kritik Frekans ve Sinyal Bozulması
 Frekans belirli bir eşiğin üzerine çıktığında, iletim hattı üzerindeki kapasitif ve endüktif bileşenler dominant hale gelmiştir. Sinyal kenarlarında "yuvarlanma" (rounding) ve yükselen kenarlarda "overshoot" efektleri belirginleşmiştir.
-* ![Örnek:](assets/diagrams/assets/screenshots/osc2.jpeg)
+* ![Örnek:](assets/diagrams/assets/screenshots/2mhz.jpeg)
 
 * **Sinyal Karakteri:** Kare dalga formu, yüksek frekans bileşenlerini kaybettiği için sinüs dalgasına benzer bir yapıya dönüşmeye başlamıştır.
 * **Neden-Sonuç İlişkisi:** Bu bozulmalar, donanım üzerindeki iletim yollarının ve pasif bileşenlerin (R, C, L değerleri) yüksek frekanslara karşı oluşturduğu empedans dengesizliğinden kaynaklanmaktadır.
