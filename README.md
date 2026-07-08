@@ -14,9 +14,9 @@ Sistemin fiziksel katman karakterizasyonu için aşağıdaki yüksek hassasiyetl
 * **Sinyal Üretimi:** **Agilent 33521A** (30 MHz Waveform Generator) - Yüksek kararlılıkta kare dalga üretimi için yapılandırılmıştır.
 ** ![Kullandığım cihaz:](assets/diagrams/assets/screenshots/1mhz.jpeg)
 * **Sinyal Analizi:** **Tektronix 6 Series MSO** - Sinyal formundaki en küçük distorsiyonları (jitter, ringing, overshoot) yakalamak amacıyla yüksek örnekleme hızında çalıştırılmıştır.
-*  ![Kullandığım cihaz:](assets/screenshots/osc1.jpeg)
+** ![Kullandığım cihaz:](assets/diagrams/assets/screenshots/osc2.jpeg)
 * **Güç Kaynağı:** **Agilent E3634A** (DC Power Supply) - Test süresince voltaj seviyesinin sabitliğini garanti altına almak için kullanılmıştır.
-*  ![Kullandığım cihaz:](assets/screenshots/powersupply.jpeg)
+** ![Kullandığım cihaz:](assets/diagrams/assets/screenshots/powersupply.jpeg)
 
 ---
 
