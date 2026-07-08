@@ -3,7 +3,7 @@
 Bu repository, endüstriyel haberleşme arayüzlerinin fiziksel katman (PHY) analizi ve sinyal bütünlüğü (signal integrity) doğrulama süreçlerini, CAN-BUS sinyallerinin fiber optik ortam üzerinden iletimini ve elektro-optik dönüşüm süreçlerinin fiziksel katman (PHY) analizini içermektedir.
 Çalışma kapsamında, CAN haberleşme altyapısında kare dalga (square wave) test sinyalleri kullanılarak; sinyal bütünlüğü (signal integrity), yayılım gecikmesi (propagation delay), yükselme/düşme zamanları (rise/fall time) ve hat üzerindeki iletim kayıpları metodolojik olarak analiz edilmiştir.
 Endüstriyel ortamlarda karşılaşılan gürültü, iletim kayıpları ve donanım limitlerinin test edilmesine yönelik metodolojik yaklaşımları dökümante eder.
-*(assets/diagrams/assets/screenshots/resim1.jpeg)
+* ![Setup:](assets/diagrams/assets/screenshots/resim1.jpeg)
 
 > **Gizlilik Bildirimi:** Bu proje, endüstriyel Ar-Ge süreçlerinde kullanılan test metodolojisini sergilemek amacıyla hazırlanmıştır. Ticari gizlilik (IP) politikaları gereği, kullanılan özel donanım ve kart detayları anonimleştirilmiştir.
 
@@ -37,7 +37,7 @@ Testin başlangıç aşamasında, Agilent 33521A üzerinden iletilen sinyallerin
 
 ### Kritik Frekans ve Sinyal Bozulması
 Frekans belirli bir eşiğin üzerine çıktığında, iletim hattı üzerindeki kapasitif ve endüktif bileşenler dominant hale gelmiştir. Sinyal kenarlarında "yuvarlanma" (rounding) ve yükselen kenarlarda "overshoot" efektleri belirginleşmiştir.
-(assets/diagrams/assets/screenshots/osc2.jpeg)
+* ![Örnek:](assets/diagrams/assets/screenshots/osc2.jpeg)
 
 * **Sinyal Karakteri:** Kare dalga formu, yüksek frekans bileşenlerini kaybettiği için sinüs dalgasına benzer bir yapıya dönüşmeye başlamıştır.
 * **Neden-Sonuç İlişkisi:** Bu bozulmalar, donanım üzerindeki iletim yollarının ve pasif bileşenlerin (R, C, L değerleri) yüksek frekanslara karşı oluşturduğu empedans dengesizliğinden kaynaklanmaktadır.
