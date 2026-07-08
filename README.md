@@ -44,3 +44,9 @@ Frekans belirli bir eşiğin üzerine çıktığında, iletim hattı üzerindeki
 
 ## 4. Sonuç
 Yapılan bu derinlemesine analiz neticesinde, fiziksel katmanın **1 MHz** değerine kadar yüksek sadakatli (high-fidelity) veri iletimi sağladığı doğrulanmıştır. 1 MHz frekans değeri, sistemin endüstriyel haberleşme gereksinimlerini güvenle karşıladığı üst limit olarak belirlenmiştir. Bu çalışma, donanımsal tasarımın yüksek frekanslı çalışma karakterini net bir şekilde ortaya koymaktadır.
+
+## 🎯 Endüstriyel Sinyal Güvenilirliği ve Mesafe Optimizasyonu
+
+*   Yalnızca **4mA akım tüketimiyle** çalışarak enerji verimliliği sağlar.
+*   **40 km'ye varan uzun hat hatlarında** dahi yüksek frekanslı kare dalga bileşenlerinin distorsiyona (bozulmaya) uğramasını engeller.
+*   Yayılım gecikmesini (propagation delay) minimize ederek, uzak mesafelerde bile deterministik (zamanlaması öngörülebilir) bir haberleşme altyapısı sunar.
