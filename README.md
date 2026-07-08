@@ -51,9 +51,6 @@ Yapılan bu derinlemesine analiz neticesinde, fiziksel katmanın **1 MHz** değe
 *   **40 km'ye varan uzun hat hatlarında** dahi yüksek frekanslı kare dalga bileşenlerinin distorsiyona (bozulmaya) uğramasını engeller.
 *   Yayılım gecikmesini (propagation delay) minimize ederek, uzak mesafelerde bile deterministik (zamanlaması öngörülebilir) bir haberleşme altyapısı sunar.
 
-## 📁 Klasör Yapısı ve Kullanım Amaçları
-
-Project yapısı, endüstriyel standartlara uygun olarak aşağıdaki hiyerarşide organize edilmiştir:
 
 ```text
 ├── assets/
