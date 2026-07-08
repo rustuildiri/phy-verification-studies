@@ -50,3 +50,14 @@ Yapılan bu derinlemesine analiz neticesinde, fiziksel katmanın **1 MHz** değe
 *   Yalnızca **4mA akım tüketimiyle** çalışarak enerji verimliliği sağlar.
 *   **40 km'ye varan uzun hat hatlarında** dahi yüksek frekanslı kare dalga bileşenlerinin distorsiyona (bozulmaya) uğramasını engeller.
 *   Yayılım gecikmesini (propagation delay) minimize ederek, uzak mesafelerde bile deterministik (zamanlaması öngörülebilir) bir haberleşme altyapısı sunar.
+
+## 📁 Klasör Yapısı ve Kullanım Amaçları
+
+Project yapısı, endüstriyel standartlara uygun olarak aşağıdaki hiyerarşide organize edilmiştir:
+
+```text
+├── assets/
+│   ├── diagrams/          # CAN-Fiber dönüşüm şemaları ve sistem blok diyagramları
+│   └── screenshots/       # Osiloskop ekran görüntüleri (kare dalga, gecikme ve jitter ölçümleri)
+├── docs/                  # Metodolojik dökümanlar ve test senaryoları
+└── src/                   # Veri işleme, simülasyon ve sinyal analiz scriptleri
